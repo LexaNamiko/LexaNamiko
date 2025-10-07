@@ -8,8 +8,8 @@
 
 ### 🌱 About Me
 - 🎓 Currently studying **Information Technology**  
-- 💡 Interested in **Artificial Intelligence**, **Machine Learning**, and **Web Development**  
-- 💻 I enjoy working on C++, Python, and JavaScript projects  
+- 💡 Interested in **Artificial Intelligence**, **Machine Learning**, and **Cyber Security**  
+- 💻 I enjoy working on C++, and Python.  
 - 🌸 Always learning and exploring new tech!
 
 ---
@@ -30,7 +30,7 @@
 ---
 
 ### 🪄 Fun Facts
-- 🧋 Favorite drink: Milk tea  
+- 🧋 Favorite drink: Matcha 
 - 🎶 Music helps me focus while coding  
 - 🐾 Cat person, obviously  
 - 🌙 Night owl — best ideas come after midnight  
