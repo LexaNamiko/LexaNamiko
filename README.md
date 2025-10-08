@@ -9,7 +9,7 @@
 ### 🌱 About Me
 - 🎓 Currently studying **Information Technology**  
 - 💡 Interested in **Artificial Intelligence**, **Machine Learning**, and **Cyber Security**  
-- 💻 I enjoy working on C++, and Python.  
+- 💻 I enjoy working on C++, Golang, and Python.  
 - 🌸 Always learning and exploring new tech!
 
 ---
