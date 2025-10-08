@@ -31,17 +31,17 @@
 
 ### 🪄 Fun Facts
 - 🧋 Favorite drink: Matcha 
-- 🎶 Music helps me focus while coding  
-- 🐾 Cat person, obviously  
+- 🎶 Singer 
+- 🐾 Cat person
 - 🌙 Night owl — best ideas come after midnight  
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/lexa-namiko" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="www.linkedin.com/in/lexa-namiko-premasta-3a8565322" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:lexa@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://instagram.com/lexa.namiko" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://instagram.com/lexanmiko" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
